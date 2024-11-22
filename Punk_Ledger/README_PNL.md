@@ -3,6 +3,8 @@
 
 This script calculates the Profit and Loss (PnL) for a given CryptoPunk NFT based on wallet transactions. Users can specify their main wallet, additional linked wallets, Punk ID, and select specific timeframes for PnL calculations. It fetches transaction data from an Excel file and provides insights into CryptoPunk performance.
 
+## Good Quality Tuto vid here: https://youtu.be/sTiIBVmgTT8
+
 ## Features
 
 - **Dynamic Wallet Input**: Users can specify a main wallet and additional linked wallets.
@@ -122,3 +124,4 @@ This project is open-source and can be freely modified and redistributed.
 ---
 
 Happy calculating!
+
