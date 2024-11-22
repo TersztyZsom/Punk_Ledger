@@ -5,7 +5,8 @@ This script fetches event data for specified wallet addresses related to CryptoP
 
 ## Good Quality Tuto vid here: https://youtu.be/sTiIBVmgTT8
 
-## Low Qual Tuto vid here: https://github.com/user-attachments/assets/824aef73-e275-4ff5-8651-811ffe1ca654
+## Low Qual Tuto vid here: 
+https://github.com/user-attachments/assets/824aef73-e275-4ff5-8651-811ffe1ca654
 
 ## Features
 
