@@ -15,7 +15,11 @@ This script fetches event data for specified wallet addresses related to CryptoP
 ## Prerequisites
 
 - Python 3.7 or higher
-- The following Python libraries must be installed:
+- T
+
+https://github.com/user-attachments/assets/824aef73-e275-4ff5-8651-811ffe1ca654
+
+he following Python libraries must be installed:
   - `web3`
   - `pandas`
   - `openpyxl`
