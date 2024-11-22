@@ -130,5 +130,5 @@ This project is open-source and can be freely modified and redistributed.
 
 ---
 
-Happy calculating!
+🧮 Happy calculating! 🧮
 
