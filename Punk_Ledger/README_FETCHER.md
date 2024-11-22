@@ -5,6 +5,8 @@ This script fetches event data for specified wallet addresses related to CryptoP
 
 ## Good Quality Tuto vid here: https://youtu.be/sTiIBVmgTT8
 
+## Low Qual Tuto vid here: https://github.com/user-attachments/assets/824aef73-e275-4ff5-8651-811ffe1ca654
+
 ## Features
 
 - **Dynamic Wallet Address Input**: Users can input between 1 and 10 wallet addresses for querying.
@@ -17,7 +19,7 @@ This script fetches event data for specified wallet addresses related to CryptoP
 - Python 3.7 or higher
 - T
 
-https://github.com/user-attachments/assets/824aef73-e275-4ff5-8651-811ffe1ca654
+
 
 he following Python libraries must be installed:
   - `web3`
