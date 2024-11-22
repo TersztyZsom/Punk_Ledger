@@ -3,6 +3,8 @@
 
 This script fetches event data for specified wallet addresses related to CryptoPunks transactions. It connects to the Ethereum mainnet via Infura, processes event data from the CryptoPunks contract, and exports the data to an Excel file for further analysis.
 
+## Good Quality Tuto vid here: https://youtu.be/sTiIBVmgTT8
+
 ## Features
 
 - **Dynamic Wallet Address Input**: Users can input between 1 and 10 wallet addresses for querying.
