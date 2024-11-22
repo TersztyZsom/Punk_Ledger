@@ -5,11 +5,18 @@ This script calculates the Profit and Loss (PnL) for a given CryptoPunk NFT base
 
 ## Good Quality Tuto vid here: [https://youtu.be/sTiIBVmgTT8](https://youtu.be/UYcBKNzjeKw)
 
+## Low Quality Tuto vid here:
+https://github.com/user-attachments/assets/83403ced-3dab-4587-8b8a-de3b52f48384
+
 ## Features
 
 - **Dynamic Wallet Input**: Users can specify a main wallet and additional linked wallets.
 - **Timeframe-Based PnL Calculation**: Calculate PnL for multiple timeframes (e.g., 3 days, weekly, monthly, yearly).
-- **Handles Unsold Punks**: Provides PnL estimates for unsold Punks based on the current lowest price.
+- **Handles Unsold Punks**: Provides PnL e
+
+
+
+stimates for unsold Punks based on the current lowest price.
 - **Transaction Filtering**: Automatically filters and processes transaction data for a specific Punk ID and wallet.
 
 ## Prerequisites
